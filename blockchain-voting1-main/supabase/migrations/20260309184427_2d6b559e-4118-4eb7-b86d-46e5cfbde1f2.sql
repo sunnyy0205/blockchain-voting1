@@ -1,0 +1,1 @@
+ALTER TABLE public.candidates ADD COLUMN onchain_id integer;
